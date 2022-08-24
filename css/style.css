@@ -1,0 +1,12 @@
+ul {
+    display: inline-block;
+    text-decoration: none;
+}
+
+.col-lg-6.left {
+    margin-left: 50%;
+}
+
+.footer {
+    justify-content: center;
+}
